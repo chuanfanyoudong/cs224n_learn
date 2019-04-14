@@ -23,3 +23,5 @@ word2vec通过这种上下文预测，我们不断调整单词向量，来让上
 ![avatar](pic/f.jpg)
 当你的词汇量很大的时候，最好不要依次全部更新，每个batch只更新某些句子中的词就好了
 ![avatar](pic/g.jpg)
+## glove
+![avatar](pic/i.jpg)
